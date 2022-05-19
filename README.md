@@ -2,7 +2,7 @@
 #### Welcome to my Portfolio Github page
 
 - 🔭 I’m currently in a training programme at Digital Career Institute for full-stack web developers.
-- - 🌱 I’m currently learning 
+-  🌱 I’m currently learning 
 - My technology stack:
 
 Javascript HTML5 React CSS3 Sass Bootstrap NodeJS Express Heroku MongoDB
