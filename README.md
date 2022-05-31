@@ -11,10 +11,10 @@
 
 
 🔭 Recently graduated from Digital Career Institute as a full-stack web developers. <br>
-📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.
-🥾 Avid traveller whom lived in three continents.
-📖 Learner of new technologies.
-🎹🎥 Music and Movies are one of my passions! 
+📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.  <br>
+🥾 Avid traveller whom lived in three continents.  <br>
+📖 Learner of new technologies.   <br> 
+🎹 🎥 Music and Movies are one of my passions!   <br>
 
 You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
          here</a> 
