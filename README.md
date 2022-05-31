@@ -11,6 +11,10 @@
 
 
 🔭 Recently graduated from Digital Career Institute as a full-stack web developers.
+📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.
+🥾 Avid traveller whom lived in three continents.
+📖 Learner of new technologies.
+🎹🎥 Music and Movies are one of my passions! 
 
 You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
          here</a> 
@@ -18,7 +22,7 @@ You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
 
 
 
-### :hammer_and_wrench: These are some of the  tools that I can use :
+### :hammer_and_wrench: These are some of the diverse tools that I am able to use :
 <div>
    <a href="https://reactjs.org/">
        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -60,6 +64,18 @@ You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere" **alt="Premiere" width="40" height="40"/>
 
   </a>        
+  
+   <a href="https://www.adobe.com/products/aftereffects.html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" **alt="After Effects" width="40" height="40"/>
+
+  </a>           
+         
+  <a href="https://trello.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>
+
+  </a>         
+         
+         
          
          
   
