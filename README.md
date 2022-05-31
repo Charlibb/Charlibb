@@ -12,6 +12,12 @@
 
 🔭 I’m currently in a training programme at Digital Career Institute for full-stack web developers.
 
+You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
+       <img src="https://github.com/Iconscout/unicons/blob/master/svg/solid/briefcase.svg" title="Briefcase" alt="Briefcase" width="40" height="40"/>&nbsp;
+  </a> 
+here
+
+
 
 ### :hammer_and_wrench: Languages and Tools that I am learning :
 <div>
