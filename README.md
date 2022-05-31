@@ -10,7 +10,7 @@
 ---
 
 
-🔭 Recently graduated from Digital Career Institute as a full-stack web developers.
+🔭 Recently graduated from Digital Career Institute as a full-stack web developers. <br>
 📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.
 🥾 Avid traveller whom lived in three continents.
 📖 Learner of new technologies.
