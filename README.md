@@ -43,12 +43,8 @@ You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-  </a> 
-    <a href="https://www.mysql.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-
-  </a> 
-    <a href="https://nodejs.org/en/docs/">
+  </a>
+         <a href="https://nodejs.org/en/docs/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
   </a> 
