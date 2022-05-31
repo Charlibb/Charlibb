@@ -5,12 +5,12 @@
 
 
 ### Welcome to my Portfolio Github page
-#### This portfolio is currently under construction.
+#### This human is currently under construction.
 
 ---
 
 
-🔭 I’m currently in a training programme at Digital Career Institute for full-stack web developers.
+🔭 Recently graduated from Digital Career Institute as a full-stack web developers.
 
 You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
          here</a> 
@@ -18,7 +18,7 @@ You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
 
 
 
-### :hammer_and_wrench: Languages and Tools that I am learning :
+### :hammer_and_wrench: These are some of the  tools that I can use :
 <div>
    <a href="https://reactjs.org/">
        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -56,6 +56,12 @@ You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>
 
   </a> 
+  <a href="https://www.adobe.com/products/premiere.html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premiere" **alt="Premiere" width="40" height="40"/>
+
+  </a>        
+         
+         
   
   
 </div>
