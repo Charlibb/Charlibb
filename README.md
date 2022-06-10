@@ -16,8 +16,7 @@
 📖 Learner of new technologies.   <br> 
 🎹 🎥 Music and Movies are one of my passions!   <br>
 
-You can visit my personal portfolio   <a href="http://carlosbborruel.me/">
-         here</a> 
+
 
 
 
