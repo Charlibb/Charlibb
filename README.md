@@ -10,11 +10,13 @@
 ---
 
 
-🔭 Recently graduated from Digital Career Institute as a full-stack web developers. <br>
+🔭 Recently graduated from Digital Career Institute as a full-stack web developer. <br>
 📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.  <br>
-🥾 Avid traveller whom lived in three continents.  <br>
+🥾 Avid traveller that lived in three continents and speaks fluently three languages.  <br>
 📖 Learner of new technologies.   <br> 
 🎹 🎥 Music and Movies are one of my passions!   <br>
+
+ 🤔✍️ Seeking a job & new exciting projects in the tech-world !
 
 
 
