@@ -16,7 +16,7 @@
 📖 Learner of new technologies.   <br> 
 🎹 🎥 Music and Movies are one of my passions!   <br>
 
- 🤔✍️ Seeking a job & new exciting projects in the tech-world !
+
 
 
 
