@@ -74,7 +74,12 @@
   <a href="https://trello.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>
 
-  </a>         
+  </a> 
+
+   <a href="https://figma.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" title="Figma" **alt="Figma_logo" width="40" height="40"/>
+
+  </a>  
          
          
          
