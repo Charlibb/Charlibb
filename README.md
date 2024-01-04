@@ -77,7 +77,7 @@
   </a> 
 
    <a href="https://figma.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" title="Figma" **alt="Figma_logo" width="80" height="80"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" title="Figma" **alt="Figma_logo" width="60" height="60"/>
 
   </a>  
          
