@@ -25,7 +25,7 @@
 
 ### :hammer_and_wrench: These are some of the diverse tools that I am able to use :
 <div>
-   <a href="https://reactjs.org/" style="text-decoration:none">
+   <a href="https://reactjs.org/" style="text-decoration:none">>
        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   </a> 
     <a href="https://www.w3.org/TR/CSS/#css" style="text-decoration:none">
