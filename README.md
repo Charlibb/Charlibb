@@ -9,7 +9,7 @@
 
 ---
 
-👨🏾‍💻 Software engineer 👨🏾‍💻
+👨🏾‍💻 Software engineer 👨🏾‍💻 <br>
 🔭 Graduated from Digital Career Institute as a full-stack web developer. <br>
 📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.  <br>
 🥾 Avid traveller that lived in three continents and speaks fluently three languages.  <br>
