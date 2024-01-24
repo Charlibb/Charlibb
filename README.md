@@ -5,11 +5,12 @@
 
 
 ### Welcome to my Portfolio Github page
-#### This human is currently under construction.
+#### Developers develop themselves
 
 ---
 
 👨🏾‍💻 Software engineer 👨🏾‍💻 <br>
+🚀 Working at diconium gmbH  <br>
 🔭 Graduated from Digital Career Institute as a full-stack web developer. <br>
 📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.  <br>
 🥾 Avid traveller that lived in three continents and speaks fluently three languages.  <br>
