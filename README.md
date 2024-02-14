@@ -5,7 +5,9 @@
 
 
 ### Welcome to my Portfolio Github page
-#### Developers develop themselves
+#### Developer developing 
+#### Non-Active profile atm. Personal Project: React-Native Scout location app. Soon to be updated.
+
 
 ---
 
