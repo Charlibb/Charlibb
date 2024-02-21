@@ -6,12 +6,11 @@
 
 ### Welcome to my Portfolio Github page
 #### Developer developing 
-#### Non-Active profile atm. Personal Project: React-Native Scout location app. Soon to be updated.
 
 
 ---
 
-👨🏾‍💻 Software engineer 👨🏾‍💻 <br>
+👨🏾‍💻 Frontend web developer 👨🏾‍💻 <br>
 🚀 Working at diconium gmbH  <br>
 🔭 Graduated from Digital Career Institute as a full-stack web developer. <br>
 📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.  <br>
@@ -22,11 +21,11 @@
 
 
 
+### FACE IT, TILL YOU MAKE IT!
 
 
 
-
-### :hammer_and_wrench: These are some of the diverse tools that I am able to use :
+### :hammer_and_wrench: Some of the diverse tools that I am able to use :
 
 
 <div >
