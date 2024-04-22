@@ -10,8 +10,8 @@
 
 ---
 
-👨🏾‍💻 Frontend web developer 👨🏾‍💻 <br>
-🚀 Working at diconium gmbH  <br>
+👨🏾‍💻 Professional Frontend web developer 👨🏾‍💻 <br>
+🚀 2 years professional experience at diconium gmbH  <br>
 🔭 Graduated from Digital Career Institute as a full-stack web developer. <br>
 📼 Graduated on Audiovisual Production from Spanish National School of Radio & TV.  <br>
 🥾 Avid traveller that lived in three continents and speaks fluently three languages.  <br>
@@ -21,7 +21,7 @@
 
 
 ###### My motto:
-### FACE IT, TILL YOU MAKE IT!
+### FACE IT, TILL YOU BECOME IT!
 
 
 
